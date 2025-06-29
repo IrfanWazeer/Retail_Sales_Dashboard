@@ -85,7 +85,7 @@ This project is hosted at:
 
 If you’re interested in more real-world data projects or collaborations:  
 **🔗 LinkedIn**: [linkedin.com/in/arfanwazeer](https://linkedin.com/in/arfanwazeer)  
-**📧 Email**: [Your professional email]
+**📧 Email**: [irfanwazeer2@gmail.com]
 
 ---
 
