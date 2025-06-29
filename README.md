@@ -58,8 +58,9 @@ Retail_Sales_Dashboard/
 
 ## 📸 Dashboard Preview
 
-![Bar Chart](visuals/bar_chart_category.png)
-![Revenue Card](visuals/total_revenue_card.png)
+![Power BI Dashboard](visuals/dashboard_preview.png)
+
+📊 [Click here to download the Power BI dashboard (.pbix)](visuals/dashboard.pbix)
 
 > 🔗 Full Power BI file available at: `visuals/dashboard.pbix`
 
